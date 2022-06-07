@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--this the first time ever i am coding-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learning code with Bimasha</title>
+</head>
+<!--this is  the body tag-->
+<body>
+ <p> learning code with Bimasha</p> 
+ <hr/>
+
+ <H1>learning code with Bimasha</H1>  
+ <h2>learning code with Bimasha</h2>
+ <H3>learning code with Bimasha</H3>
+ <H4>learning code with Bimasha</H4>
+ <H5>learning code with Bimasha</H5>
+ <H6>learning code with Bimasha</H6>
+ <hr/>
+<P>Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages  </P>
+<hr/>
+<a href="https://www.google.com/">google </a> 
+<br/> 
+<hr/>
+<a href="https://www.squarespace.com/websites/create-a-blog/?channel=pnb&subchannel=go&campaign=pnb-go-row_global-en-verticals_general-e&subcampaign=(blog_blog_e)&&utm_source=google&utm_medium=pnb&utm_campaign=pnb-go-row_global-en-verticals_general-e&utm_term=blog&gclid=CjwKCAjwy_aUBhACEiwA2IHHQF6Kt7PxqroW3OLBU1rB9DSya5bcPAIiC2BLxaW3K6OaKe0TMGcb9xoCgXcQAvD_BwE&gclsrc=aw.ds" > blog</a>
+<hr/>
+
+<image src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/photo_1517336714731_489689fd1ca8_9.jpeg"height=200></image> alt="notebook" />
+<hr/>
+<b>coding is fun </b> 
+<br/> 
+<i>coding is fun </i>
+<br/> 
+<U>coding with fun</U>
+<hr/>
+<big>coding with bimasha</big>
+<hr/>
+<smal>coding with bimasha</smal>
+<p> H <sub>2</sub>o</p>
+<hr/>
+<P>2<sup>2</sup>=4</P>
+<hr/>
+
+</body>
+</html>
