@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main> 
+        <ul>
+            
+            <li> mango</li>
+            <ol><li> Colour:yello</li></ol>
+            <li> apple</li>
+            <ol><li> Colour:red</li></ol>
+            <li> litchi</li>
+            <ol><li>Colour:red</li></ol>
+
+        </ul>
+        <ol>
+            <li> watermelon</li>
+            <ul>
+                <li> Colour:red</li>
+            </ul>
+            <li> banana</li>
+            <ul>
+                <LI> Colour:yellow</LI>
+            </ul>
+            <li> cucamber</li>
+            <Ul>
+                <li>Colour: green </li>
+            </Ul>
+            <li> orange</li>
+
+
+        </ol>
+    </main>
+<table>
+    <thead></thead>
+    <caption>student Data</caption>
+<tr> 
+   <th colspan="3">
+       INFORMATION
+   </th>
+   
+
+</tr>
+</thead>
+<tbody></tbody>
+
+<tr>
+    <td>
+        tanim
+    </td>
+    <td>
+        123
+    </td>
+
+    <td>
+        11th
+    </td>
+</tr>
+<tr>
+        <td>
+            tanvir
+        </td>
+        <td>
+            124
+        </td>
+        <td>
+            11th
+        </td>
+    </tr>
+    <tr>
+        <td>   tanjib
+            </td>
+            <td>
+                125
+            </td>
+            <td>
+                11th
+    </td>
+</tr>
+</tbody>
+</table>
+
+
+
+        <form action="/action.php">
+           <h3> fill in the blanks </h3>
+            <br><br>
+            
+            <input type="text" placeholder="student name">
+            <br>
+            <input type="password" placeholder="type password">
+            <br><br>
+            <h4>select your class</h4>
+            <br><br>
+            <label for="101">
+            <input type="radio" value="class 11" name="class" id="101">classs 11
+        </label>
+        <br>
+        <label for="102">
+             <input type="radio" value="class12" name="class" id="102">class 12
+            </label>
+            <br><br>
+            <H4>choose your favorite subject</H4>
+            <br><br>
+            <label for="math"> 
+                 <input type="checkbox" value="math" name="subjet" id="101"> math
+                 <br><br>
+            </label>
+            <label for="physic"> 
+                <input type="checkbox" value="physic" name="subjet" id="102"> physic
+                <br><br>
+           </label>
+           <label for="chemistry"> 
+            <input type="checkbox" value="chemistry" name="subjet" id="103"> chemistry
+            <br><br>
+       </label>
+       <label for="computer science"> 
+        <input type="checkbox" value="computer science" name="subjet" id="104"> computer science
+
+   </label>
+   <br><br>
+   <br><br>
+   <textarea name="feedback" id="101" placeholder="please give us your valueable feedback here"> feedback</textarea>
+        </form>
+
+</body>
+</html>
